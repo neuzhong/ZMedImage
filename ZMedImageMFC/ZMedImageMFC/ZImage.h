@@ -13,6 +13,11 @@ public:
 	ZImage(void);
 	virtual ~ZImage(void);
 
+private:
+	int m_nRows;
+	int m_nColoms;
+	
+
 
 
 };

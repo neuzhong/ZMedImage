@@ -45,6 +45,12 @@
     <ClInclude Include="ZStruct.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ZImage3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ZWndImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ZMedImageMFC.cpp">
@@ -63,6 +69,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="ZImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ZImage3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ZWndImage.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
